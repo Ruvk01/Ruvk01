@@ -74,6 +74,7 @@
 ## Нагрузочное тестирование
 <div>
   <img src="https://icons.iconarchive.com/icons/simpleicons-team/simple/256/apache-jmeter-icon.png" title="Jmeter" alt="Jmeter" width="40" height="40"/>&nbsp
+  <img src="https://upload.wikimedia.org/wikipedia/commons/2/22/Apache_JMeter.png" title="Jmeter" alt="Jmeter" width="40" height="40"/>&nbsp
 </div>
 
 <!-- Выбор картинок ↑↑: https://github.com/tandpfun/skill-icons --> 

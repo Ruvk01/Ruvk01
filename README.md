@@ -71,6 +71,11 @@
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Sublime-Dark.svg" title="Sublime" alt="Sublime" width="40" height="40"/>&nbsp
 </div>
 
+## Нагрузочное тестирование
+<div>
+  <img src="https://icons.iconarchive.com/icons/simpleicons-team/simple/256/apache-jmeter-icon.png" title="Jmeter" alt="Jmeter" width="40" height="40"/>&nbsp
+</div>
+
 <!-- Выбор картинок ↑↑: https://github.com/tandpfun/skill-icons --> 
 <!-- Ещё выбор картинок ↑↑: https://github.com/marwin1991/profile-technology-icons/ --> 
 

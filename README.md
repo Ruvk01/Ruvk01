@@ -83,12 +83,6 @@
 <br>
 
 ## 🪴 Практика и стажировка
-[<img src="/Certificate (diplom).png" width="280px" hspace="10px" alt="Сертификат (диплом)»">](https://raw.githubusercontent.com/Ruvk01/Ruvk01/refs/heads/main/Certificate%20(diplom).png)
-[<img src="/Diplom.png" width="280px" hspace="10px" alt="Диплом на русском»">](https://raw.githubusercontent.com/Ruvk01/Ruvk01/refs/heads/main/Diplom.png)
-[<img src="/Certificate basic course.png" width="280px" hspace="10px" alt="Сертификат базовый курс»">](https://raw.githubusercontent.com/Ruvk01/Ruvk01/refs/heads/main/Certificate%20basic%20course.png)
-[<img src="/Certificate basic course russian.png" width="280px" hspace="10px" alt="Сертификат базовый курс на русском»">](https://raw.githubusercontent.com/Ruvk01/Ruvk01/refs/heads/main/Certificate%20basic%20course%20russian.png)
-[<img src="/Certificate full course.png" width="280px" hspace="10px" alt="Сертификат полный курс»">](https://raw.githubusercontent.com/Ruvk01/Ruvk01/refs/heads/main/Certificate%20full%20course.png)
-[<img src="/Certificate full course russian.png" width="280px" hspace="10px" alt="Сертификат полный курс на русском»">](https://raw.githubusercontent.com/Ruvk01/Ruvk01/refs/heads/main/Certificate%20full%20course%20russian.png)
 [<img src="/Certificate internship auto ae.png" width="280px" hspace="10px" alt="Сертификат стажировка auto ae»">](https://raw.githubusercontent.com/Ruvk01/Ruvk01/refs/heads/main/Certificate%20internship%20auto%20ae.png)
 [<img src="/Certificate internship russian auto ae.png" width="280px" hspace="10px" alt="Сертификат стажировка auto ae на русском»">](https://raw.githubusercontent.com/Ruvk01/Ruvk01/refs/heads/main/Certificate%20internship%20russian%20auto%20ae.png)
 [<img src="/Certificate internship nyroGPT.png" width="280px" hspace="10px" alt="Сертификат стажировка nyroGPT»">](https://raw.githubusercontent.com/Ruvk01/Ruvk01/refs/heads/main/Certificate%20internship%20nyroGPT.png)
@@ -97,14 +91,18 @@
 <br>
 
 ## 🎒 Образование
-[<img src="/diploma_en2.png" width="280px" hspace="10px" alt="Диплом»">](https://raw.githubusercontent.com/German-D/German-D/main/diploma_en2.png)
-[<img src="/Letter10.png" width="280px" hspace="10px" alt="Рекомендательное письмо»">](https://raw.githubusercontent.com/German-D/German-D/main/Letter10.png)
+[<img src="/Certificate (diplom).png" width="280px" hspace="10px" alt="Сертификат (диплом)»">](https://raw.githubusercontent.com/Ruvk01/Ruvk01/refs/heads/main/Certificate%20(diplom).png)
+[<img src="/Diplom.png" width="280px" hspace="10px" alt="Диплом на русском»">](https://raw.githubusercontent.com/Ruvk01/Ruvk01/refs/heads/main/Diplom.png)
+[<img src="/Certificate basic course.png" width="280px" hspace="10px" alt="Сертификат базовый курс»">](https://raw.githubusercontent.com/Ruvk01/Ruvk01/refs/heads/main/Certificate%20basic%20course.png)
+[<img src="/Certificate basic course russian.png" width="280px" hspace="10px" alt="Сертификат базовый курс на русском»">](https://raw.githubusercontent.com/Ruvk01/Ruvk01/refs/heads/main/Certificate%20basic%20course%20russian.png)
+[<img src="/Certificate full course.png" width="280px" hspace="10px" alt="Сертификат полный курс»">](https://raw.githubusercontent.com/Ruvk01/Ruvk01/refs/heads/main/Certificate%20full%20course.png)
+[<img src="/Certificate full course russian.png" width="280px" hspace="10px" alt="Сертификат полный курс на русском»">](https://raw.githubusercontent.com/Ruvk01/Ruvk01/refs/heads/main/Certificate%20full%20course%20russian.png)
 
 <br>
 <br>
 
 ## 🤝 Контакт
-[![Email](https://img.shields.io/badge/Email-3b5998?style=flat-square&logo=Mail.Ru&logoColor=white)](mailto:german@dolnikov.ru)
-[![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/dolnikov)
+[![Email](https://img.shields.io/badge/Email-3b5998?style=flat-square&logo=Mail.Ru&logoColor=white)](mailto:timofejpetuhov91638@gmail.com)
+[![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/ginger_giver)
 
 <!-- Документация по виджету контактов ↑↑ https://shields.io/badges --> 

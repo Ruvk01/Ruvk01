@@ -83,10 +83,16 @@
 <br>
 
 ## 🪴 Практика и стажировка
-[<img src="/Certificate (diplom).png" width="280px" hspace="10px" alt="Сертификат (диплом) о прохождении полного курса обучения»">](https://raw.githubusercontent.com/Ruvk01/Ruvk01/refs/heads/main/Certificate%20(diplom).png)
+[<img src="/Certificate (diplom).png" width="280px" hspace="10px" alt="Сертификат (диплом)»">](https://raw.githubusercontent.com/Ruvk01/Ruvk01/refs/heads/main/Certificate%20(diplom).png)
 [<img src="/Diplom.png" width="280px" hspace="10px" alt="Диплом на русском»">](https://raw.githubusercontent.com/Ruvk01/Ruvk01/refs/heads/main/Diplom.png)
 [<img src="/Certificate basic course.png" width="280px" hspace="10px" alt="Сертификат базовый курс»">](https://raw.githubusercontent.com/Ruvk01/Ruvk01/refs/heads/main/Certificate%20basic%20course.png)
 [<img src="/Certificate basic course russian.png" width="280px" hspace="10px" alt="Сертификат базовый курс на русском»">](https://raw.githubusercontent.com/Ruvk01/Ruvk01/refs/heads/main/Certificate%20basic%20course%20russian.png)
+[<img src="/Certificate full course.png" width="280px" hspace="10px" alt="Сертификат полный курс»">](https://raw.githubusercontent.com/Ruvk01/Ruvk01/refs/heads/main/Certificate%20full%20course.png)
+[<img src="/Certificate full course russian.png" width="280px" hspace="10px" alt="Сертификат полный курс на русском»">](https://raw.githubusercontent.com/Ruvk01/Ruvk01/refs/heads/main/Certificate%20full%20course%20russian.png)
+[<img src="/Certificate internship auto ae.png" width="280px" hspace="10px" alt="Сертификат стажировка auto ae»">](https://raw.githubusercontent.com/Ruvk01/Ruvk01/refs/heads/main/Certificate%20internship%20auto%20ae.png)
+[<img src="/Certificate internship russian auto ae.png" width="280px" hspace="10px" alt="Сертификат стажировка auto ae на русском»">](https://raw.githubusercontent.com/Ruvk01/Ruvk01/refs/heads/main/Certificate%20internship%20russian%20auto%20ae.png)
+[<img src="/Certificate internship nyroGPT.png" width="280px" hspace="10px" alt="Сертификат стажировка nyroGPT»">](https://raw.githubusercontent.com/Ruvk01/Ruvk01/refs/heads/main/Certificate%20internship%20nyroGPT.png)
+[<img src="/Certificate internship russian nyroGPT.png" width="280px" hspace="10px" alt="Сертификат стажировка nyroGPT на русском»">](https://raw.githubusercontent.com/Ruvk01/Ruvk01/refs/heads/main/Certificate%20internship%20russian%20nyroGPT.png)
 
 <br>
 

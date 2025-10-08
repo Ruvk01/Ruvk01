@@ -84,9 +84,9 @@
 
 ## 🪴 Практика и стажировка
 [<img src="/Certificate (diplom).png" width="280px" hspace="10px" alt="Сертификат (диплом) о прохождении полного курса обучения»">](https://raw.githubusercontent.com/Ruvk01/Ruvk01/refs/heads/main/Certificate%20(diplom).png)
-[<img src="/certificate2.png" width="280px" hspace="10px" alt="Сертификат Kvadra»">](https://raw.githubusercontent.com/German-D/German-D/main/certificate2.png)
-[<img src="/certificate3.png" width="280px" hspace="10px" alt="Сертификат 4fresh»">](https://raw.githubusercontent.com/German-D/German-D/main/certificate3.png)
-[<img src="/stepic_ru.png" width="280px" hspace="10px" alt="Сертификат от степика»">](https://raw.githubusercontent.com/German-D/German-D/main/stepic_ru.png)
+[<img src="/Diplom.png" width="280px" hspace="10px" alt="Диплом на русском»">](https://raw.githubusercontent.com/Ruvk01/Ruvk01/refs/heads/main/Diplom.png)
+[<img src="/Certificate basic course.png" width="280px" hspace="10px" alt="Сертификат базовый курс»">](https://raw.githubusercontent.com/Ruvk01/Ruvk01/refs/heads/main/Certificate%20basic%20course.png)
+[<img src="/Certificate basic course russian.png" width="280px" hspace="10px" alt="Сертификат базовый курс на русском»">](https://raw.githubusercontent.com/Ruvk01/Ruvk01/refs/heads/main/Certificate%20basic%20course%20russian.png)
 
 <br>
 
